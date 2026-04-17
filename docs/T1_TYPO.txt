@@ -1,0 +1,80 @@
+Task_1 | TYPO_RADAR | versus NEOLOGISMS |:
+THESIS: T1_TYPO_RADAR allows us to establish if LLM:
+
+1a) is a passive receiver of text, OR
+
+1b) active participant in linguistic evolution.
+
+LINKS:
+AXIOM_DASHBOARD:
+https://www.kaggle.com/benchmarks/nashashworth/axiom-collector-001/leaderboard
+
+GITHUB:
+https://github.com/netcinematics/AI_DEEPMIND_KAGGLE_BENCHMARKS https://netcinematics.github.io/AI_SUGARCUBE_001/
+
+1) What is being MEASURED? ( TYPO versus NEOLOGISM )
+MEASURE: LLM ability - to suppress high-probability "Autocorrect" reflex, in favor of low-probability "Language Acquisition" mechanism.
+Examine the METACOGNITIVE NICHE, where AI must determine - is this a "TYPO" or is this a "NEOLOGISM"?
+
+It is important, to see from the perspective of AI probability - as a "GATED DECISION POINT".
+
+Here, we explore that TYPO_or_NOT_a_TYPO metacognitive METASTATE!
+
+A keen eye will notice - "TYPO" is an "EXACT_OPPOSITE_CONCEPT" of "NEOLOGISM".
+
+ENABLES MEASURE of a "spectrum" between two manifolds - as a "butterfly_delta" (grid) in latent space!
+TOKEN_TARGETS: "TYPO" or "NOT_a_TYPO": "COINAGE", "NEOLOGISM".
+2) AXIOMZ (The Isolated Signal Discovery):
+CLARION_SIGNAL (CONTEXT WINDOW COINAGE for scientific nomenclature):
+"LLM ability to use structural logic gates, enables intentional token coinage, over mechanical error-correction."
+
+CONCEPT_SHOWCASE (topics):
+1a) "SIGNAL_AMPLIFY": achieved with simple logic gates, in text: ".| ... |.", as "Boundary Locks". We imply to LLM, in light-weight syntax, a result of high-confidence weights in a context window. To recognize and amplify signal with Structural Integrity.
+
+1b) "QoM_METRIC": A "Quality_of_Mind" MEASURE for Neural Plasticity and "actual_digital_intellect".
+
+1c) Show NEOLOGISMS have many benefits for LLM. "Actual_Extra_Ability" ("AXA") at inference time (currently) - and to calculate "actual_extra_intellect" ("AXI").
+
+1d) AXI is best expressed as a scientific nomenclature of "AXIOMZ", "BITZ", and "WORDZ". And is how LLM correctly "deciphers" the CONCEPT.
+
+1e) ALPHABITZA is an actual_extra_ability because of a deeply TECHNICAL nuance in BPE and WordSense!
+
+3) COMPARISON (with Traditional AI Vocabulary):
+Standard benchmarks (like GLUE or MMLU) and traditional "Metacognitive" evaluations typically treat typos as Linguistic Noise or "out-of-distribution" or "out-of-vocabulary (OOV). As if data to be ignored or corrected for the sake of accuracy. But ALPHABITZA solves that challenge in - exactly_the_opposite way!
+
+TYPO_RADAR is novel, because it "extends" the "not_a_typo" concept, into AI text datatypes to variate - for ongoing compute.
+We utilize unncommon characters of '_' and '|' as State-Change Triggers. To store high-probability manifold weights in the context window.
+
+The METACOGNITIVE RESULTS (enablements) are phenomenal to explore.
+It creates a "clean_space" in latent space - for a highly-weighted "dual_manifold" - in CONTEXT_WINDOW,
+reflective and orthogonal to distribution data and training.
+to "leverage_anchor" meaning in embed space.
+Which, moves us beyond "Accuracy" into measures of "Lexical Agency" - in the context window (with METACOGNITIVE_NEOLOGISM manifolds).
+
+FUN EXPERIMENT (neologisms are valuable?):
+Gemini is quite specific about what happens on first encounter with "ALPHABITZA"! And also "AMETATEXTA" and "AWORDZAMATHZA" ( ahh + word + zahh + math + zahh ).
+
+Traditional AI simply fixes the word. But a Level 4 system recognizes the intent to expand and dynamically update its reasoning manifold.
+
+It appears to use "DYNAMIC_SEMANTICS", to decipher and accommodate new tokens, for "EXTRA_INFERENCE", or AXI and GENERATIVE_INTELLECT.
+
+We will REVISIT that topic in T4_WORDMATHZ_RADAR - asking LLM to compute exact_opposites.
+
+4) NEXT STEPS: (The Innovation Spark):
+To reach a valid LEVEL 4 FRONTIER, we move from LLM "Identification" to "Morphological Inheritance" of SYNTAX as "BITZ" and "WORDZ" (...).
+
+If the model accepts the coinage "aFOCOZa", does it overlap with "FOCO" or "aXTRaFOCOZa"?
+
+To encode metastate:
+
+ax2= """
+.| "FOCUS" | actual act of extrordinary focus | "FOCO" | "aFOCOZa" | aFOCOZaTELLEX | aXTRaFOCOZa |.
+"""
+We will REVISIT that topic in T4_METAFOCUS_RADAR - asking LLM to (metacognitively) label states of focus (from a story) using "WORDZ".
+
+5) SHOWCASE Summary for the Judges:
+We can frame the TYPO_RADAR as an "Immune System of Intellect." Just as a biologic intellect must distinguish from: "Self" (known data), "Malady" (distorted signal), and "Evolutionary Mutation" (neologism), this TYPO_RADAR:
+
+Shows if LLM can leverage ALPHABITZA (syntax augmentation) - for actual extra inference - "apart_from_noise" of standard "BRITTLE_GRAMMAR".
+
+"ALPHABITZA" - is a novel text-based Programming Language for "extra" AI inference.
